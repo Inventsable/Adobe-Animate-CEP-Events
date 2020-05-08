@@ -28,3 +28,5 @@ com.adobe.events.flash.selectionChanged: triggered when another object on the st
 com.adobe.events.flash.mouseMove: Triggered when the mouse is moved on the stage.
 
 ```
+
+## See [Home.vue for relevant code](https://github.com/Inventsable/Adobe-Animate-CEP-Events/blob/master/src/views/Home.vue)
