@@ -4,7 +4,7 @@
 
 ### 🔥 This panel took me 20 minutes to make from scratch thanks to [bombino](https://github.com/Inventsable/bombino) for generating the foundation and styling with ready-made [brutalism](https://github.com/battleaxedotco/brutalism) components 🔥
 
-Panel to document otherwise undocumented CEP events [found here](https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://www.99ku.vip/twjc/10464.html&prev=search):
+Panel to demonstrate otherwise undocumented CEP events [found here](https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://www.99ku.vip/twjc/10464.html&prev=search):
 
 ```
 com.adobe.events.flash.documentChanged: triggered when the current active document changes.
